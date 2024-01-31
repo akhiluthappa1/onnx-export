@@ -1,8 +1,6 @@
 # Using 🤗 Hugging Face with ONNX
 
-This repository contains example notebooks to work with ONNX using 🤗 Hugging Face libraries and tools. It is part of the [Duke University MLOps Coursera Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
-
-## Exercise
+This repository contains example notebooks to work with ONNX using 🤗 Hugging Face libraries and tools.
 
 This repository is ready to use with GitHub Codespaces. All dependencies will be installed and the notebooks will be ready to use. If you are running this locally and without Codespaces, you'll need to follow these steps:
 
@@ -16,8 +14,7 @@ With the environment in place, go through the notebooks and use the examples tha
 1. Load the resulting ONNX model with the ONNX Runtime and try using it
 
 ## Objectives
-
-This introductory repository will expose you to learn how does ONNX and Hugging Face works together. It shows what and how you install the necessary libraries to create ONNX models.
+how does ONNX and Hugging Face works together. It shows what and how you install the necessary libraries to create ONNX models.
 
 
 ## Learning Resources
